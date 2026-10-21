@@ -164,7 +164,7 @@ $ ./contact.sh --open-to-collaborate
 ```
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/TU-PERFIL"><img src="https://img.shields.io/badge/LinkedIn-ff2a6d?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0a14" /></a>
+  <a href="https://www.linkedin.com/in/laura-duarte"><img src="https://img.shields.io/badge/LinkedIn-ff2a6d?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0a14" /></a>
   <a href="mailto:TU-CORREO@ejemplo.com"><img src="https://img.shields.io/badge/Email-00f0ff?style=for-the-badge&logo=gmail&logoColor=07070f&labelColor=0a0a14" /></a>
 </p>
 
