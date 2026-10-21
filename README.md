@@ -4,7 +4,7 @@
      ============================================================ -->
 
 <p align="center">
-  <img src="./assets/banner.svg" alt="Laura Sofía Gutiérrez - Full Stack & AEM Developer" width="100%" />
+  <img src="./banner.svg" alt="Laura Sofía Gutiérrez - Full Stack & AEM Developer" width="100%" />
 </p>
 
 <p align="center">
