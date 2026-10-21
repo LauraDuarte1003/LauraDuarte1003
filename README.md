@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/TU-PERFIL"><img src="https://img.shields.io/badge/LinkedIn-Connect-ff2a6d?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0a14" /></a>
+  <a href="https://www.linkedin.com/in/laura-duarte-b67114225/"><img src="https://img.shields.io/badge/LinkedIn-Connect-ff2a6d?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0a14" /></a>
   <a href="mailto:TU-CORREO@ejemplo.com"><img src="https://img.shields.io/badge/Email-Contact-00f0ff?style=for-the-badge&logo=gmail&logoColor=07070f&labelColor=0a0a14" /></a>
   <img src="https://img.shields.io/badge/Location-Bogot%C3%A1,_Colombia-f5d300?style=for-the-badge&logo=googlemaps&logoColor=07070f&labelColor=0a0a14" />
 </p>
